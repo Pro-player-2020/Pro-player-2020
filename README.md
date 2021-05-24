@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Pro-player-2020
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+create a file named assets and put all the textures, sounds, .blends and .obj (and .mtl), and the .xmp file files in the assets file.
+Then, take the cubes in 3D in .png for the inventory, and put them in a file named blocks.
 
-<!---
-Pro-player-2020/Pro-player-2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I think that's all.
